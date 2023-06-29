@@ -16,4 +16,4 @@ To run this program we need:
 
 To work with this project we need:
 
--Knowledge about Bash and Linux commands.
+- Knowledge about Bash and Linux commands.
